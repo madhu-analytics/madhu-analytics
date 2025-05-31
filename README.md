@@ -24,7 +24,7 @@ I’m a data professional with 6+ years of analytics experience and a strong fou
 |-----------------------|--------------------------------------------------------|
 | **Languages**         | Python, SQL                                            |
 | **Data Analysis**     | Pandas, NumPy, Excel                                   |
-| **BI & Visualization**| Power BI, Excel Dashboards                             |
+| **BI & Visualization**| Tableau, Power BI, Excel Dashboards                             |
 | **Data Engineering**  | dbt, Snowflake, PostgreSQL, Airflow                    |
 | **Cloud & DevOps**    | AWS S3, AWS Lambda, Git                                |
 | **ETL & Pipelines**   | Python (ETL scripts), SQL, dbt                         |
